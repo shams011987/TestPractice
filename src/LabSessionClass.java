@@ -3,7 +3,10 @@ public class LabSessionClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+		// this is place the execerise 
+		
+// This is labsession practice
 	}
 
 }
